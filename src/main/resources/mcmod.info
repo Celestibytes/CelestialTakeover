@@ -1,0 +1,16 @@
+[
+{
+  "modid": "celestialtakeover",
+  "name": "Celestial Takeover",
+  "description": "Totally changes how Minecraft is played.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Okkapel", "PizzAna"],
+  "credits": "N/A",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
